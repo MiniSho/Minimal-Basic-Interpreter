@@ -1,8 +1,8 @@
-# <center> Minimal-Basic-Interpreter</center>
+# Minimal-Basic-Interpreter
 
-<center> Shanghai Jiao Tong University </center>
+Shanghai Jiao Tong University
 
-<center>ITAMI SHO</center>
+ITAMI SHO
 
 ## 0. Introduction
 
